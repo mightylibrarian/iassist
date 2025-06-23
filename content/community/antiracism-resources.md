@@ -1,5 +1,5 @@
 ---
-title: "Diversity, Equity, and Inclusion Data Resources"
+title: "Representation in Data"
 date: 2023-10-20
 draft: false
 ---
