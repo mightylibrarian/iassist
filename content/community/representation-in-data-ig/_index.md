@@ -84,6 +84,6 @@ Our mission is to provide resources and educational opportunities to better reco
 
 Please use the feedback forms for additions and comments to the resources lists, guide, and library. 
 
-We are happy to receive suggestions and ideas for speakers and topics. Please send those to the Interest Group’s chair, Todd Quinn, tq [ at ] umn.edu
+We are happy to receive suggestions and ideas for speakers and topics. Please send those to the Interest Group’s chair, Todd Quinn, tq [ at ] unm.edu
 
 *Please note:  These resources will be reviewed periodically for their usage statistics.  When usage drops, these resources will be retired.*
